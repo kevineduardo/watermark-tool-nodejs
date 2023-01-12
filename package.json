@@ -1,0 +1,17 @@
+{
+  "name": "watermark-tool-nodejs",
+  "version": "1.0.0",
+  "description": "Ferramenta de watermark para imagens webp usando NodeJS",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Eduardo",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "fs": "^0.0.1-security",
+    "minimist": "^1.2.7",
+    "path": "^0.12.7",
+    "sharp": "^0.31.3"
+  }
+}
