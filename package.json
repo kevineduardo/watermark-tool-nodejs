@@ -12,6 +12,7 @@
     "fs": "^0.0.1-security",
     "minimist": "^1.2.7",
     "path": "^0.12.7",
-    "sharp": "^0.31.3"
+    "sharp": "^0.31.3",
+    "text-to-image": "^5.2.0"
   }
 }

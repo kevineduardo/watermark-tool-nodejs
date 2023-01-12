@@ -6,6 +6,8 @@ Esta ferramenta simples é utilizada para adicionar watermark em imagens webp at
 Para suporte a outras imagens, basta modificar o código.
 Tem suporte para todas as imagens do pacote sharp.
 
+Atualmente ainda está sendo desenvolvido.
+
 
 ## Uso/Exemplos
 
